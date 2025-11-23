@@ -1,0 +1,32 @@
+* { margin:0; padding:0; box-sizing:border-box; font-family:'Segoe UI',Arial,sans-serif; }
+body { background:#0f172a; color:#e2e8f0; line-height:1.6; min-height:100vh; }
+.contenedor { max-width:900px; margin:0 auto; padding:20px; text-align:center; }
+header { padding:60px 20px; background:linear-gradient(135deg,#1e293b,#334155); }
+.foto-perfil { width:180px; height:180px; border-radius:50%; border:6px solid #60a5fa; object-fit:cover; box-shadow:0 10px 30px rgba(0,0,0,0.5); }
+h1 { font-size:3rem; color:#60a5fa; margin:20px 0; }
+.titulo-profesional { font-size:1.3rem; color:#94a3b8; margin:10px 0; }
+h2 { color:#60a5fa; margin:40px 0 20px; font-size:2rem; }
+h3 { color:#60a5fa; margin:30px 0 15px; }
+.sobre-mi { background:#1e293b; padding:50px 30px; border-radius:20px; margin:40px 0; box-shadow:0 10px 30px rgba(0,0,0,0.4); }
+.competencias { text-align:left; display:inline-block; background:#334155; padding:25px; border-radius:15px; margin:20px 0; }
+.competencias li { margin:12px 0; padding-left:10px; }
+.btn { 
+    display:inline-block; background:#60a5fa; color:white; padding:16px 40px; 
+    text-decoration:none; border-radius:50px; margin:30px 10px; font-weight:bold; font-size:1.1rem;
+    transition:0.3s;
+}
+.btn:hover { background:#3b82f6; transform:scale(1.05); }
+.formulario { background:#1e293b; padding:50px; border-radius:20px; max-width:600px; margin:40px auto; }
+input, textarea { 
+    width:100%; padding:15px; margin:12px 0; border:none; border-radius:12px; 
+    background:#334155; color:white; font-size:1rem;
+}
+textarea { height:160px; resize:vertical; }
+button { 
+    background:#60a5fa; color:white; padding:16px; border:none; border-radius:50px; 
+    cursor:pointer; font-size:1.2rem; width:100%; margin-top:15px;
+}
+button:hover { background:#3b82f6; }
+.error { background:#991b1b; padding:15px; border-radius:12px; margin:20px 0; }
+.gracias { padding:100px 20px; }
+footer { padding:40px; background:#0f172a; margin-top:80px; font-size:0.9rem; color:#64748b; }
