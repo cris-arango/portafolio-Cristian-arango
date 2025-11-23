@@ -1,7 +1,7 @@
 # Portafolio Personal - Cristian Arango
 
 **Estudiante de Ingeniería en Tecnologías de la Información**  
-Quito, Ecuador - 2025
+Cuenca, Ecuador - 2025
 
 ## Enlace del proyecto en vivo
 https://arango34.wuaze.com
