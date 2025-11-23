@@ -19,7 +19,7 @@ Incluye:
 ## Tecnologías utilizadas
 - HTML5
 - CSS3 (diseño personalizado)
-- PHP 8 + PDO (procesamiento seguro del formulario)
+- PHP  PDO (procesamiento seguro del formulario)
 - MySQL (base de datos para almacenar mensajes)
 - Hosting gratuito: InfinityFree
 
